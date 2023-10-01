@@ -18,8 +18,8 @@ export default function Header() {
         </Link>
       </div>
       <nav className="flex items-center gap-4">
-        <Link href={"/works"}>
-          <Button variant={"ghost"}>Works</Button>
+        <Link href={"/work-experience"}>
+          <Button variant={"ghost"}>Work Experience</Button>
         </Link>
         <Link href={"/projects"}>
           <Button variant={"ghost"}>Projects</Button>

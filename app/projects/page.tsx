@@ -87,7 +87,7 @@ const settings: Settings = {
 
 export default function ProjectsPage() {
   return (
-    <div className="my-8 max-w-4xl mx-4 md:mx-auto">
+    <div className="my-16 max-w-4xl mx-4 md:mx-auto">
       <div>
         <h1
           className="text-4xl font-bold"
