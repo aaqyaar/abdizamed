@@ -8,7 +8,7 @@ import { AiOutlineSmallDash } from "react-icons/ai";
 
 export function About() {
   return (
-    <div className="ml-12 my-4">
+    <div className="md:ml-12 mx-4 my-4">
       <div>
         <AiOutlineSmallDash className="text-4xl" />
         <h1 className="text-xl font-bold hover:underline hover:underline-offset-4">
@@ -46,7 +46,7 @@ export function About() {
             <div className="flex justify-between font-light mt-2">
               <p>Alfajr High School</p> <p>2012-2020</p>
             </div>
-            <p className="font-thin mt-4">
+            <p className="font-extralight mt-4">
               A significant phase of my life where I built the foundational
               skills and developed a penchant for technology.
             </p>
@@ -58,7 +58,7 @@ export function About() {
               <p>2023-2024 (Not Finished Yet)</p>
             </div>
 
-            <p className="font-thin mt-4">
+            <p className="font-extralight mt-4">
               My pursuit of formal education, though a recent endeavor, has been
               invigorating. At Jamhuriya University, I am expanding my horizons,
               diving deeper into the technical realm, and getting exposed to
@@ -66,18 +66,6 @@ export function About() {
             </p>
           </div>
         </div>
-      </div>
-      <div className="flex gap-4 items-center">
-        <Button className="inline-flex items-center gap-2">
-          <FaFileDownload className="h-5 w-5" />
-          Get Resume
-        </Button>
-        <Link href={"mailto:abdizamedmo@gmail.com"}>
-          <Button className="inline-flex items-center gap-2">
-            <InboxArrowDownIcon className="h-5 w-5" />
-            Email Me <span className="sr-only">at</span>
-          </Button>
-        </Link>
       </div>
     </div>
   );

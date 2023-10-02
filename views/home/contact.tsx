@@ -45,17 +45,17 @@ export function Contact() {
 
   return (
     <div className="mt-10">
-      <div className="mx-12">
+      <div className="mx-4 md:mx-12">
         {/* contact form with name, email, phone, subject, message */}
         <AiOutlineSmallDash className="text-4xl" />
         <h2 className="text-xl font-bold hover:underline hover:underline-offset-4">
           Contact
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 place-items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 items-center place-items-center">
           <div className="mt-6 md:mt-0">
             <div className="flex h-32 w-32 items-center justify-center rounded-full border-4">
               <Image
-                src="https://www.github.com/aaqyaar.png"
+                src={"/image.png"}
                 alt="Abdi Zamed"
                 className="h-full w-full rounded-full object-cover object-top"
                 width={128}
