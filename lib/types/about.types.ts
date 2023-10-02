@@ -14,4 +14,6 @@ interface IWorkExperience {
   endDate: string;
 }
 
+export type IWorkExperienceList = IWorkExperience[];
+
 export type { IAbout, IWorkExperience };
