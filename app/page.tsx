@@ -61,7 +61,7 @@ export default function Home() {
   } = useForm<Inputs>();
 
   return (
-    <div className="max-w-4xl mt-4 mx-auto relative">
+    <div className="max-w-5xl mt-4 mx-auto relative">
       <Hero />
 
       <Links />

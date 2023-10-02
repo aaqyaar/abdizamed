@@ -113,13 +113,13 @@ export default function ProjectsPage() {
       <div className="mt-4">
         {projects.map(({ images, title, description }: ProjectType, i) => (
           <div key={i} className="py-4 flex flex-col md:flex-row gap-4">
-            <div className="w-[30rem]">
+            <div className="w-full md:w-[30rem]">
               <Slider {...settings}>
                 {images.map((image, i) => (
                   // add overlay to images
                   <div
                     key={i}
-                    className="w-full h-[18rem] relative bg-gray-100 dark:bg-neutral-900 rounded"
+                    className="w-full h-[13rem] md:h-[18rem] relative bg-gray-100 dark:bg-neutral-900 rounded"
                   >
                     <Image
                       src={image}
