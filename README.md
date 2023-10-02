@@ -1,6 +1,6 @@
 # Abdi Zamed Mohamed's Portfolio
 
-Welcome to the GitHub repository of Abdi Zamed Mohamed's personal portfolio. This repository contains the source code and assets for the portfolio, showcasing Abdi's skills, experiences, and projects. You can view the live version of the portfolio at the link provided below.
+Welcome to my GitHub repository of Abdi Zamed Mohamed's personal portfolio. This repository contains the source code and assets for the portfolio, showcasing my skills, experiences, and projects. You can view the live version of the portfolio at the link provided below.
 
 [![Portfolio Preview](./public/preview.png)](https://abdizamedmo.vercel.app/)
 
@@ -16,10 +16,10 @@ Welcome to the GitHub repository of Abdi Zamed Mohamed's personal portfolio. Thi
 ## Sections
 
 1. **Home**: A brief introduction and welcoming note.
-2. **About**: Dive deeper into Abdi's background, skills, and passions.
-3. **Projects**: A showcase of some of the best projects Abdi has worked on.
-4. **Experience**: A timeline of Abdi's professional journey.
-5. **Contact**: Ways to get in touch with Abdi.
+2. **About**: Dive deeper into my background, skills, and passions.
+3. **Projects**: A showcase of some of the best projects that i was worked on.
+4. **Experience**: A timeline of my professional journey.
+5. **Contact**: Ways to get in touch with me.
 
 ## Technologies Used
 
@@ -68,4 +68,4 @@ This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file fo
 
 ---
 
-Thank you for visiting! Explore more about Abdi's journey in tech, and reach out for questions or collaboration ideas!
+Thank you for visiting! Explore more about my journey in tech, and reach out for questions or collaboration ideas!
