@@ -64,7 +64,7 @@ While this is primarily a personal project, suggestions and feedback are welcome
 
 ## License
 
-This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is under the The Unlicense - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
