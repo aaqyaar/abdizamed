@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Abdi Zamed Mohamed's Portfolio
 
-## Getting Started
+Welcome to the GitHub repository of Abdi Zamed Mohamed's personal portfolio. This repository contains the source code and assets for the portfolio, showcasing Abdi's skills, experiences, and projects. You can view the live version of the portfolio at the link provided below.
 
-First, run the development server:
+[![Portfolio Preview](./public/preview.png)](https://abdizamedmo.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+> **Live Portfolio**: [https://abdizamedmo.vercel.app/](https://abdizamedmo.vercel.app/)
+
+## Features
+
+- **Responsive Design**: Ensures the portfolio looks great on devices of all sizes, from mobile phones to desktops.
+- **Dynamic Content**: Leveraging modern web technologies to provide an engaging user experience.
+- **Clean Code**: Well-structured and commented code for easy understanding and potential collaboration.
+- **Interactive UI**: Provides an intuitive navigation experience for visitors.
+
+## Sections
+
+1. **Home**: A brief introduction and welcoming note.
+2. **About**: Dive deeper into Abdi's background, skills, and passions.
+3. **Projects**: A showcase of some of the best projects Abdi has worked on.
+4. **Experience**: A timeline of Abdi's professional journey.
+5. **Contact**: Ways to get in touch with Abdi.
+
+## Technologies Used
+
+- React (Next.js)
+- Tailwind CSS
+- Hygraph (GraphCMS)
+- [Vercel](https://vercel.com/) for deployment
+
+## Running Locally
+
+To set up this portfolio on your local machine:
+
+1. Clone the repository:
+
+```
+git clone https://github.com/aaqyaar/abdizamed.git portfolio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navigate to the project directory:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+cd portfolio
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Install the dependencies:
 
-## Learn More
+```
+yarn install
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. Run the development server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+yarn dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. Open the `localhost:3000` in your browser to view the portfolio.
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+While this is primarily a personal project, suggestions and feedback are welcome. Feel free to open an issue or submit a pull request for improvements or feature suggestions.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Thank you for visiting! Explore more about Abdi's journey in tech, and reach out for questions or collaboration ideas!
