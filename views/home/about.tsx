@@ -1,8 +1,5 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
-import { InboxArrowDownIcon, BookOpenIcon } from "@heroicons/react/24/solid";
-import { FaFileDownload } from "react-icons/fa";
+import { BookOpenIcon } from "@heroicons/react/24/solid";
 import { Separator } from "@/components/ui/separator";
 import { AiOutlineSmallDash } from "react-icons/ai";
 

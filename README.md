@@ -23,9 +23,8 @@ Welcome to my GitHub repository of Abdi Zamed Mohamed's personal portfolio. This
 
 ## Technologies Used
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,ts,tailwind,graphql,vercel&perline=13" />
-  </a>
+<img src="https://skillicons.dev/icons?i=next,ts,tailwind,graphql,vercel&perline=13" />
+
 <!-- - [Vercel](https://vercel.com/) for deployment -->
 
 ## Running Locally
