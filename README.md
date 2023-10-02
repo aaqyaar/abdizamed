@@ -23,10 +23,10 @@ Welcome to my GitHub repository of Abdi Zamed Mohamed's personal portfolio. This
 
 ## Technologies Used
 
-- React (Next.js)
-- Tailwind CSS
-- Hygraph (GraphCMS)
-- [Vercel](https://vercel.com/) for deployment
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,ts,tailwind,graphql,vercel&perline=13" />
+  </a>
+<!-- - [Vercel](https://vercel.com/) for deployment -->
 
 ## Running Locally
 
