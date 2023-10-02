@@ -20,6 +20,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="shortcut icon"
+          href="/icon.png"
+          type="image/x-png"
+          sizes="128x128"
+        />
+      </head>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
