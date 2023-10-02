@@ -13,6 +13,23 @@ export const metadata: Metadata = {
   title: "Abdi Zamed Mohamed",
   description:
     "I'm Abdi Zamed Mohamed, a resourceful and self-taught full-stack developer with an enthusiasm for developing imaginative digital solutions. Through 3+ years of practical experience, I've honed my skills in transforming creative concepts into tangible software products. My journey has been marked by opportunities, I am dedicated to creating meaningful software solutions that cater to user requirements and technological innovation.",
+  keywords: [
+    "MERN Stack Developer",
+    "MERN Stack Developer from Somalia",
+    "MERN Stack Developer from Somalia in Africa",
+    "Abdi Zamed Mohamed",
+    "abdizamed",
+    "Abdi Zamed Mohamed from Somalia",
+    "React Developer from Somalia",
+    "Node.js Developer from Somalia",
+    "ASP.NET Developer from Somalia",
+    "Data Scientist from Somalia",
+    "Developer",
+    "Software Engineer",
+    "App Developer",
+    "Web Developer",
+    "Mobile App Developer",
+  ],
 };
 
 export default function RootLayout({
