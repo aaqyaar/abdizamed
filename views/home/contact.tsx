@@ -55,7 +55,7 @@ export function Contact() {
           <div className="mt-6 md:mt-0">
             <div className="flex h-32 w-32 items-center justify-center rounded-full border-4">
               <Image
-                src={"/image.png"}
+                src={"/icon.png"}
                 alt="Abdi Zamed"
                 className="h-full w-full rounded-full object-cover object-top"
                 width={128}
