@@ -38,7 +38,7 @@ export function Hero() {
           Abdi Zamed Mohamed <span className="text-sm">(@aaqyaar)</span>
         </h1>
         <p className="py-4 font-light">Brings ideas to life with code! ✨</p>
-        <p className="font-light max-w-md md:max-w-lg">
+        <p className="font-light max-w-md md:max-w-2xl lg:max-w-4xl">
           Passionate and creative software engineer with a strong interest in
           web & mobile development. I have a strong passion for learning new
           things and using them to solve real-world problems. I am currently

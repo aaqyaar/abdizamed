@@ -9,7 +9,7 @@ export default function WorkExperience({
   workExperience,
 }: WorkExperienceProps) {
   return (
-    <main className="mt-16 mb-20 max-w-4xl mx-4 lg:mx-auto">
+    <main className="mt-16 mb-20 max-w-5xl mx-4 lg:mx-auto">
       <div className="bg-[url(/grid.svg)] h-full px-4">
         <h1
           className="text-4xl font-bold pt-2"
@@ -25,7 +25,7 @@ export default function WorkExperience({
             <div key={index} className="flex flex-col gap-2 mt-4">
               <div className="flex items-center justify-between">
                 <h2 className="text-xl font-extralight">{work.company}</h2>
-                <h2 className="font-thin">
+                <h2 className="font-medium">
                   {work.startDate} - {work.endDate}
                 </h2>
               </div>

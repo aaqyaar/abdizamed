@@ -17,11 +17,15 @@ export function Links() {
         </span>
       </Button>
 
-      <Button className="inline-flex items-center gap-2" variant={"ghost"}>
-        <FaFileDownload className="h-5 w-5" />
-        Get Resume
-      </Button>
-
+      <Link href={"/abdizamed.pdf"} target="_blank" download={true}>
+        <Button
+          className="inline-flex w-full items-center gap-2"
+          variant={"ghost"}
+        >
+          <FaFileDownload className="h-5 w-5" />
+          Get Resume
+        </Button>
+      </Link>
       <Link href={"https://twitter.com/abdizamedmo"} target="_blank">
         <Button
           className="inline-flex items-center w-full gap-2"
