@@ -3,6 +3,7 @@ import React from "react";
 import { Button } from "./ui/button";
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { Separator } from "./ui/separator";
+import { InboxArrowDownIcon } from "@heroicons/react/24/solid";
 
 export default function Footer() {
   return (
@@ -32,6 +33,16 @@ export default function Footer() {
         <Link href={"https://www.github.com/aaqyaar"} target="_blank">
           <Button variant={"ghost"} size={"icon"}>
             <FaGithub className="h-7 w-7" />
+          </Button>
+        </Link>
+
+        <Link href={"mailto:abdizamedmo@gmail.com"}>
+          <Button
+            variant={"ghost"}
+            size={"icon"}
+            className="inline-flex items-center gap-2"
+          >
+            <InboxArrowDownIcon className="h-7 w-7" />
           </Button>
         </Link>
       </div>
